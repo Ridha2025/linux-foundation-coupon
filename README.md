@@ -14,23 +14,23 @@ As a certified CKAD, CKA, CKS professional, I am committed to assisting you in o
 
 ### Save **50%** using Coupon code **CYBER24CC** on all the Linux Foundation training and certification programs.
 
--  Kubernetes CKAD VOUCHER (~$395~ —> $197): [kube.promo/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
--  Kubernetes CKA VOUCHER (~$395~ —> $197): [kube.promo/cka](https://teckbootcamps.com/go/cka-exam-2024/)
--  Kubernetes CKS VOUCHER (~$395~ —> $197): [kube.promo/cks](https://teckbootcamps.com/go/cks-exam-2024/)
--  Kubernetes KCNA (~$250~  —> $125) : [kube.promo/KCNA](https://shrsl.com/4nfid)
--  Kubernetes KCSA (~$250~  —> $125) : [kube.promo/KCSA](https://shrsl.com/4nfjq)
--  ISTIO CERTIFIED ASSOCIATE (~$250~  —> $125) : [kube.promo/istio](https://shrsl.com/4nfju)
+-  Kubernetes CKAD VOUCHER (~$395~ —> $197): [ridhabenhafsia/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
+-  Kubernetes CKA VOUCHER (~$395~ —> $197): [ridhabenhafsia/cka](https://teckbootcamps.com/go/cka-exam-2024/)
+-  Kubernetes CKS VOUCHER (~$395~ —> $197): [ridhabenhafsia/cks](https://teckbootcamps.com/go/cks-exam-2024/)
+-  Kubernetes KCNA (~$250~  —> $125) : [ridhabenhafsia/KCNA](https://shrsl.com/4nfid)
+-  Kubernetes KCSA (~$250~  —> $125) : [ridhabenhafsia/KCSA](https://shrsl.com/4nfjq)
+-  ISTIO CERTIFIED ASSOCIATE (~$250~  —> $125) : [ridhabenhafsia/istio](https://shrsl.com/4nfju)
 
 >  Coupon: use code **CYBER24CC** at checkout .
 
 ### Save **60%** using Coupon code **CYBER24BUNDLE** on all the Linux Foundation certification bundles.
 
--  CKA + CKS  (~$725~  —> $435): [kube.promo/cka-cks](https://teckbootcamps.com/go/kube-promo-bundle/)
--  CKA + CKAD + CKS (~$1095~  —> $657) : [kube.promo/cka-ckad-cks](https://teckbootcamps.com/go/kube-promo-k8s-bundle/)
--  KCNA + KCSA + CKA + CKAD + CKS (~$1495~  —> $897) : [kube.promo/kubestronaut](https://teckbootcamps.com/go/kube-promo-kubestronaut/) 
--  KCNA + CKA (~$595~  —> $357 ): [kube.promo/kcka-bundle](https://teckbootcamps.com/go/kube-promo-kcka-bundle/)
--  KCSA + CKS Exam Bundle (~$595~  —> $357) [kube.promo/kcsa-cks](https://teckbootcamps.com/go/kube-promo-kcsa-cks/)
--  KCNA + KCSA Exam Bundle (~$425~  —> $255) [kube.promo/kcna-kcsa](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/)
+-  CKA + CKS  (~$725~  —> $435): [ridhabenhafsia/cka-cks](https://teckbootcamps.com/go/kube-promo-bundle/)
+-  CKA + CKAD + CKS (~$1095~  —> $657) : [ridhabenhafsia/cka-ckad-cks](https://teckbootcamps.com/go/kube-promo-k8s-bundle/)
+-  KCNA + KCSA + CKA + CKAD + CKS (~$1495~  —> $897) : [ridhabenhafsia/kubestronaut](https://teckbootcamps.com/go/kube-promo-kubestronaut/) 
+-  KCNA + CKA (~$595~  —> $357 ): [ridhabenhafsia/kcka-bundle](https://teckbootcamps.com/go/kube-promo-kcka-bundle/)
+-  KCSA + CKS Exam Bundle (~$595~  —> $357) [ridhabenhafsia/kcsa-cks](https://teckbootcamps.com/go/kube-promo-kcsa-cks/)
+-  KCNA + KCSA Exam Bundle (~$425~  —> $255) [ridhabenhafsia/kcna-kcsa](https://teckbootcamps.com/go/kube-promo-kcna-kcsa/)
 
 >  Coupon: use code **CYBER24BUNDLE** at checkout .
 
